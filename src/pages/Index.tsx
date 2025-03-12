@@ -6,6 +6,7 @@ import ProoftagSection from '../components/AdministrationSection';
 import WhyChooseUs from '../components/WhyChooseUs';
 import ContactSection from '../components/ContactSection';
 import FaqSection from '../components/FaqSection';
+import { Analytics } from "@vercel/analytics/react"
 import Footer from '../components/Footer';
 import Testimonials from '@/components/LaundrySection';
 import LaundrySection from '@/components/LaundrySection';
@@ -47,6 +48,7 @@ const Index = () => {
         <WhyChooseUs />
         <FaqSection />
         <ContactSection />
+        <Analytics />
       </main>
       <Footer />
       
