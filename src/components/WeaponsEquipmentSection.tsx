@@ -77,7 +77,7 @@ const WeaponsEquipmentSection = () => {
             
             <div className="flex flex-wrap gap-4">
               <a href="#contact" className="btn-primary">
-                Contacter nous pour une démo
+                Contactez-nous pour une démo
                 <ChevronRight className="ml-2 h-5 w-5" />
               </a>
               <a href="#faq" className="text-blue-primary hover:text-orange-primary font-medium transition-colors inline-flex items-center">
