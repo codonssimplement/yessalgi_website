@@ -61,7 +61,7 @@ const ContactSection = () => {
     <section id="contact" className="section bg-white">
       <div className="container mx-auto">
         <div className="text-center max-w-3xl mx-auto mb-16">
-          <h2 className="section-title text-center">Contactez-Nous</h2>
+          <h2 className="section-title text-center">Contacter-Nous</h2>
           <p className="text-lg text-gray-600">
             Vous avez des questions sur nos solutions ? Notre équipe est à votre disposition pour vous aider.
           </p>

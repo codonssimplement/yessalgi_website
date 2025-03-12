@@ -43,7 +43,7 @@ const ComptaSection = () => {
             Comptabilité des matières 4.0
             </div>
             <h2 className="section-title">
-            L’Asset Tracking : Un Atout Majeur pour la Santé            </h2>
+            L’Asset Tracking : Un Atout Majeur pour la Santé</h2>
             <p className="text-lg text-gray-600 mb-8">
             Pour répondre aux exigences de conformité et d’efficacité, Yessalgi propose une solution intégrée de facility management, gestion documentaire et gestion des actifs immobilisés.
 Adopté par plus des 2/3 des projets de transformation digitale, l’asset tracking optimise la gestion et la traçabilité des équipements en temps réel. <br /> Ses avantages :            </p>
